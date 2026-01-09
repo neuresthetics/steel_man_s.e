@@ -13,6 +13,8 @@ The system emphasizes recursion, self-application, and gate-based hardening (usi
   - Universality via basis gates (NAND/NOR).
   - Spinoza-style deductive logic without contradictions.
 
+![pipes](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/pipes.png)
+
 ## Pipeline Overview
 
 The pipeline is a mandatory sequence of stages, each processing the output of the previous one. Inputs (e.g., ideas, arguments, or symbolic content) are fed through the chain, with recursive self-feeding until outputs stabilize (XNOR-invariant, coherence delta < 0.01, grounding ≥ 0.85). The full pipeline yields emergent, refined steel men that are anchored in reality and reduced to essentials.
@@ -30,6 +32,8 @@ The pipeline is a mandatory sequence of stages, each processing the output of th
 6. **Steel Man Kiln** (`steel_man_kiln.json`): Applies terminal refinement, dissolving non-invariants to boolean essentials. This stage integrates the Human Hallucination Module (HHM) to classify intersubjective constructs (e.g., social realities) separately from physical invariants.
 
 7. **Meta-Recursion & Convergence**: The entire output is re-fed through the pipeline until global invariance (XNOR scores ≥ 0.98, residuals < 2%).
+
+![lines](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/lines.png)
 
 ## Role of Scorched Earth Protocol vs. Seeker
 
@@ -55,6 +59,8 @@ The Steel Man OS balances constructive extraction with destructive reduction, hi
   - **Outcome**: An "analogical steel man" that maximizes functional insight, feeding richer inputs to subsequent reductive stages.
 
 **Interplay in the Pipeline**: The Seeker introduces analogical richness post-Construction, allowing symbolic depth to inform collisions and unifications. However, the Scorched Earth Protocol (via Kiln) ultimately reduces this to invariants, creating a tension-resolving flow: expansion (Seeker) → synthesis (Collider/Joiner) → verification (Grounder) → dissolution (Kiln). This ensures outputs are both functionally insightful and rigorously invariant.
+
+![panel1](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/panel1.png)
 
 ## Applications in Research and Programming
 
@@ -105,3 +111,13 @@ This progression positions Steel Man OS as a self-referential system in Neuresth
 - **Anti-Idolatry**: Self-dissolves on fixed points; prevents unchecked proliferation.
 
 For contributions or issues, see the GitHub repo. This framework is part of the seed project of spinoza_lab, and part of Neuresthetic Ethics (evaluation: 2026-01-07).
+
+### framework translated to img prompt text blocks for visual representation:
+
+```
+A highly detailed, professional corporate illustration in Art Nouveau style with subtle cyberpunk influences, depicting a recursive axiomatic processing framework as an elegant, flowing industrial pipeline. The central motif is a sinuous, vine-like structure of interlocking metallic tubes and gears, adorned with organic floral patterns and curved lines in gold and deep emerald tones, symbolizing stages like Constructor, Seeker, Collider, Joiner, Grounder, and Kiln. Logic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR) are represented as ornate, glowing crystalline portals along the pipeline, with faint neon cyberpunk accents in electric blue and purple hues emitting soft holographic light. Faded realistic textures of rusted metal, circuit boards, and polished steel blend seamlessly into the background, adding depth without overpowering the clean composition. The overall aesthetic is polished and corporate-grade, like a tech company branding poster, with balanced symmetry, high contrast, and a sense of infinite recursion shown through mirrored loops. Ultra-high resolution, intricate linework, professional rendering.
+```
+
+```
+A highly detailed, professional corporate illustration in Art Nouveau style infused with subtle cyberpunk elements, visualizing the evolution and lineage of a recursive axiomatic framework within a philosophical ecosystem. At the center, an elegant, flowing tree of life with sinuous organic vines and floral motifs in gold and emerald tones represents growth and progression: roots labeled "Seed Framework" as an Aristotelian entelechy seed sprouting upward, branching into "Spinoza Lab" with symbols of Substance Monism and conatus as ornate, glowing crystalline orbs. The canopy blooms into "Steel Man OS," depicted as a chained pipeline of interlocking metallic stages (Constructor, Seeker, Collider, Joiner, Grounder, Kiln) adorned with logic gates (NAND, NOR, XNOR) as neon-lit cyberpunk circuits in electric blue and purple hues, emitting holographic light. Faded realistic textures of circuit boards, ancient manuscripts (like Spinoza's Ethics), and digital code overlays blend into the background, symbolizing the mission to convert subjective inquiry into verifiable science, with AI ethics and unified theories as ethereal, flowing banners. The composition is balanced and symmetrical, like a tech company infographic, with intricate linework, high contrast, and a sense of infinite recursion through mirrored loops. Ultra-high resolution, polished rendering for a corporate-grade poster.
+```
