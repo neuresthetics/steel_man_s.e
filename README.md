@@ -237,23 +237,6 @@ For contributions or issues, see the GitHub repo. This framework is part of the 
 ---
 ---
 
-### framework translated to img prompt text blocks for visual representation:
-
-| ![panel1](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/panel1.png) |
-|---|
-
-
-```
-A highly detailed, professional corporate illustration in Art Nouveau style with subtle cyberpunk influences, depicting a recursive axiomatic processing framework as an elegant, flowing industrial pipeline. The central motif is a sinuous, vine-like structure of interlocking metallic tubes and gears, adorned with organic floral patterns and curved lines in gold and deep emerald tones, symbolizing stages like Constructor, Seeker, Collider, Joiner, Grounder, and Kiln. Logic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR) are represented as ornate, glowing crystalline portals along the pipeline, with faint neon cyberpunk accents in electric blue and purple hues emitting soft holographic light. Faded realistic textures of rusted metal, circuit boards, and polished steel blend seamlessly into the background, adding depth without overpowering the clean composition. The overall aesthetic is polished and corporate-grade, like a tech company branding poster, with balanced symmetry, high contrast, and a sense of infinite recursion shown through mirrored loops. Ultra-high resolution, intricate linework, professional rendering.
-```
-
-```
-A highly detailed, professional corporate illustration in Art Nouveau style infused with subtle cyberpunk elements, visualizing the evolution and lineage of a recursive axiomatic framework within a philosophical ecosystem. At the center, an elegant, flowing tree of life with sinuous organic vines and floral motifs in gold and emerald tones represents growth and progression: roots labeled "Seed Framework" as an Aristotelian entelechy seed sprouting upward, branching into "Spinoza Lab" with symbols of Substance Monism and conatus as ornate, glowing crystalline orbs. The canopy blooms into "Steel Man OS," depicted as a chained pipeline of interlocking metallic stages (Constructor, Seeker, Collider, Joiner, Grounder, Kiln) adorned with logic gates (NAND, NOR, XNOR) as neon-lit cyberpunk circuits in electric blue and purple hues, emitting holographic light. Faded realistic textures of circuit boards, ancient manuscripts (like Spinoza's Ethics), and digital code overlays blend into the background, symbolizing the mission to convert subjective inquiry into verifiable science, with AI ethics and unified theories as ethereal, flowing banners. The composition is balanced and symmetrical, like a tech company infographic, with intricate linework, high contrast, and a sense of infinite recursion through mirrored loops. Ultra-high resolution, polished rendering for a corporate-grade poster.
-```
-
----
----
-
 ## ⚠️ The Double-Edged Sword: Harnessing Power with Caution
 
 Steel Man OS offers significant capabilities for refining ideas into robust invariants, enabling users to navigate complex reasoning with precision and clarity. Its recursive pipeline and Scorched Earth Protocol facilitate the systematic strengthening of concepts, collision of perspectives, and reduction to core truths, making it a valuable tool for research, programming, and ethical analysis. This framework empowers the transformation of inputs into resilient, axiomatically sound outputs, leveraging logic gates to reconstruct fundamentals from NAND/NOR bases.
@@ -269,6 +252,23 @@ While designed for reliability, users should approach its application thoughtful
 - **Bias Forging**: By steel-manning through gates, the OS inverts weaknesses into strengths, effectively destroying biases rather than entrenching them. Recursion refines seeded data toward objectivity, fortifying stances against fallacies; still, starting with diverse, high-quality inputs helps maximize this bias-eliminating potential and ensures outputs resist external critique through genuine invariance.
 
 Approach Steel Man OS as a refined instrument for knowledge forging: its mechanisms emphasize empowerment through accuracy, inviting users to balance rigorous application with contextual awareness. For optimal use, incorporate diverse validations and ethical considerations beyond the pipeline.
+
+---
+---
+
+### framework translated to img prompt text blocks for visual representation:
+
+| ![panel1](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/panel1.png) |
+|---|
+
+
+```
+A highly detailed, professional corporate illustration in Art Nouveau style with subtle cyberpunk influences, depicting a recursive axiomatic processing framework as an elegant, flowing industrial pipeline. The central motif is a sinuous, vine-like structure of interlocking metallic tubes and gears, adorned with organic floral patterns and curved lines in gold and deep emerald tones, symbolizing stages like Constructor, Seeker, Collider, Joiner, Grounder, and Kiln. Logic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR) are represented as ornate, glowing crystalline portals along the pipeline, with faint neon cyberpunk accents in electric blue and purple hues emitting soft holographic light. Faded realistic textures of rusted metal, circuit boards, and polished steel blend seamlessly into the background, adding depth without overpowering the clean composition. The overall aesthetic is polished and corporate-grade, like a tech company branding poster, with balanced symmetry, high contrast, and a sense of infinite recursion shown through mirrored loops. Ultra-high resolution, intricate linework, professional rendering.
+```
+
+```
+A highly detailed, professional corporate illustration in Art Nouveau style infused with subtle cyberpunk elements, visualizing the evolution and lineage of a recursive axiomatic framework within a philosophical ecosystem. At the center, an elegant, flowing tree of life with sinuous organic vines and floral motifs in gold and emerald tones represents growth and progression: roots labeled "Seed Framework" as an Aristotelian entelechy seed sprouting upward, branching into "Spinoza Lab" with symbols of Substance Monism and conatus as ornate, glowing crystalline orbs. The canopy blooms into "Steel Man OS," depicted as a chained pipeline of interlocking metallic stages (Constructor, Seeker, Collider, Joiner, Grounder, Kiln) adorned with logic gates (NAND, NOR, XNOR) as neon-lit cyberpunk circuits in electric blue and purple hues, emitting holographic light. Faded realistic textures of circuit boards, ancient manuscripts (like Spinoza's Ethics), and digital code overlays blend into the background, symbolizing the mission to convert subjective inquiry into verifiable science, with AI ethics and unified theories as ethereal, flowing banners. The composition is balanced and symmetrical, like a tech company infographic, with intricate linework, high contrast, and a sense of infinite recursion through mirrored loops. Ultra-high resolution, polished rendering for a corporate-grade poster.
+```
 
 | ![towers](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/towers.png) |
 |---|
