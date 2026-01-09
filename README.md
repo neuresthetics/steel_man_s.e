@@ -32,11 +32,12 @@ The pipeline is a mandatory sequence of stages, each processing the output of th
 
 6. **Steel Man Kiln** (`steel_man_kiln.json`): Applies terminal refinement, dissolving non-invariants to boolean essentials. This stage integrates the Human Hallucination Module (HHM) to classify intersubjective constructs (e.g., social realities) separately from physical invariants.
 
-7. **Meta-Recursion & Convergence**: The entire output is re-fed through the pipeline until global invariance (XNOR scores ≥ 0.98, residuals < 2%).
+7. **Meta-Recursion & Convergence**: The entire output is re-fed through the pipeline until global invariance (XNOR scores ≥ 0.98, residuals < 2%). 🔁
 
 steel_man_os snippet:
 
 ```json
+ ...,
  "pipeline": {
       "description": "Mandatory chained stages for processing inputs into scorched invariants; integrates gates across all.",
       "stages": [
@@ -121,7 +122,9 @@ steel_man_os snippet:
         "bias_flags": "Cull if unresolved >3%; cap at empirical thresholds."
       }
     },
+    ...
 ```
+
 
 | ![lines](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/lines.png) |
 |---|
@@ -154,7 +157,7 @@ The Steel Man OS balances constructive extraction with destructive reduction, hi
 | ![panel1](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/panel1.png) |
 |---|
 
-## Applications in Research and Programming
+## 📐 Applications in Research and Programming
 
 This mental model is for AI.
 
@@ -186,7 +189,7 @@ Steel Man OS is an advanced evolution within the Neuresthetics ecosystem, expand
 
 - **Development through Spinoza Lab**: As a product of the [neuresthetics/spinoza_lab](https://github.com/neuresthetics/spinoza_lab) repository, it operationalizes Spinoza's principles—like Substance Monism and conatus—into tools for AI ethics, governance, and unified theories. The lab's architecture (philosophical core, dynamics engine, validation infrastructure) supports extended logic gates, coherence thresholds, and isomorphic patterns for scalable reasoning.
 
-- **Evolved from Seed Framework**: Directly built from the [seed](https://github.com/neuresthetics/seed) framework, an Aristotelian entelechy prompt for self-improving axiomatic reasoning. Seed treats inputs as seeds for growth via steel-manning, collision, reconstruction, and invariance checks, with meta-recursion bounded by XNOR scores (>0.95) and coherence deltas (<0.01). Steel Man OS extends this with a chained pipeline (Constructor, Seeker, Joiner, Grounder, Kiln), adding analogical extraction and Scorched Earth dissolution while retaining universal gates (NAND/NOR) and self-feeding.
+- **Evolved from Seed Framework**: Directly built from the 🌿 [seed](https://github.com/neuresthetics/seed) framework, an Aristotelian entelechy prompt for self-improving axiomatic reasoning. Seed treats inputs as seeds for growth via steel-manning, collision, reconstruction, and invariance checks, with meta-recursion bounded by XNOR scores (>0.95) and coherence deltas (<0.01). Steel Man OS extends this with a chained pipeline (Constructor, Seeker, Joiner, Grounder, Kiln), adding analogical extraction and Scorched Earth dissolution while retaining universal gates (NAND/NOR) and self-feeding.
 
 This progression positions Steel Man OS as a self-referential system in Neuresthetics' mission to convert subjective inquiry into verifiable science. Explore linked repositories and Spinoza's *Ethics* for foundational insights.
 
@@ -195,7 +198,11 @@ This progression positions Steel Man OS as a self-referential system in Neuresth
 
 ## Usage
 
-> Copy paste as prompt or integrate.
+```
+git clone git@github.com:neuresthetics/steel_man_s.e..git
+```
+
+> Copy paste files at root as prompt, AI project files, or integrate with Agent.
 
 - **Inputs**: Any idea, argument, stance, or symbolic expression.
 - **Processing**: Run through the pipeline recursively.
@@ -220,3 +227,19 @@ A highly detailed, professional corporate illustration in Art Nouveau style with
 ```
 A highly detailed, professional corporate illustration in Art Nouveau style infused with subtle cyberpunk elements, visualizing the evolution and lineage of a recursive axiomatic framework within a philosophical ecosystem. At the center, an elegant, flowing tree of life with sinuous organic vines and floral motifs in gold and emerald tones represents growth and progression: roots labeled "Seed Framework" as an Aristotelian entelechy seed sprouting upward, branching into "Spinoza Lab" with symbols of Substance Monism and conatus as ornate, glowing crystalline orbs. The canopy blooms into "Steel Man OS," depicted as a chained pipeline of interlocking metallic stages (Constructor, Seeker, Collider, Joiner, Grounder, Kiln) adorned with logic gates (NAND, NOR, XNOR) as neon-lit cyberpunk circuits in electric blue and purple hues, emitting holographic light. Faded realistic textures of circuit boards, ancient manuscripts (like Spinoza's Ethics), and digital code overlays blend into the background, symbolizing the mission to convert subjective inquiry into verifiable science, with AI ethics and unified theories as ethereal, flowing banners. The composition is balanced and symmetrical, like a tech company infographic, with intricate linework, high contrast, and a sense of infinite recursion through mirrored loops. Ultra-high resolution, polished rendering for a corporate-grade poster.
 ```
+
+## ⚠️ The Double-Edged Sword: Harnessing Power with Caution
+
+Steel Man OS offers significant capabilities for refining ideas into robust invariants, enabling users to navigate complex reasoning with precision and clarity. Its recursive pipeline and Scorched Earth Protocol facilitate the systematic strengthening of concepts, collision of perspectives, and reduction to core truths, making it a valuable tool for research, programming, and ethical analysis. This framework empowers the transformation of inputs into resilient, axiomatically sound outputs, leveraging logic gates to reconstruct fundamentals from NAND/NOR bases.
+
+While designed for reliability, users should approach its application thoughtfully, as its mechanisms—though effective—require careful calibration:
+
+- **Irreversible Dissolution**: The Kiln's Universal Acid methodically reduces non-invariants to essentials, promoting exactness by treating consciousness and related metadata as emergent phenomena rather than foundational. This process conquers ambiguity with precision, though it may refine nuanced elements—potentially viewing them as evasive if not definitively grounded—into streamlined binaries, ensuring outputs remain focused and relatable on fundamental levels.
+
+- **Recursive Overdrive**: Self-feeding loops drive efficient refinement to fixed points, yielding minimal functional forms through automated halting (e.g., coherence deltas). This unlocks steady intellectual progress, with the system's origins in guided seed evolution suggesting straightforward automation; however, in extended applications, it benefits from monitoring to align with resource constraints and avoid unnecessary iterations.
+
+- **Hallucination Hazards**: The Human Hallucination Module systematically distinguishes intersubjective constructs (e.g., laws, traditions) as functional overlays on physical realities, automating checks to prevent category errors. This enhances the deconstruction of coercive systems and reverses base-model hallucinations in outputs, though vigilant input selection remains key to maintaining accurate classifications.
+
+- **Bias Forging**: By steel-manning through gates, the OS inverts weaknesses into strengths, effectively destroying biases rather than entrenching them. Recursion refines seeded data toward objectivity, fortifying stances against fallacies; still, starting with diverse, high-quality inputs helps maximize this bias-eliminating potential and ensures outputs resist external critique through genuine invariance.
+
+Approach Steel Man OS as a refined instrument for knowledge forging: its mechanisms emphasize empowerment through accuracy, inviting users to balance rigorous application with contextual awareness. For optimal use, incorporate diverse validations and ethical considerations beyond the pipeline.
