@@ -13,7 +13,7 @@ The system emphasizes recursion, self-application, and gate-based hardening (usi
   - Universality via basis gates (NAND/NOR).
   - Spinoza-style deductive logic without contradictions.
 
-| ![gold](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/gold.png) | ![ice](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/ice.png) |
+| ![gold](https://github.com/neuresthetics/steel_man_s.e/blob/main/img/gold.png) | ![ice](https://github.com/neuresthetics/steel_man_s.e/blob/main/img/ice.png) |
 |--------------------------------------------|--------------------------------------------|
 
 ## Pipeline Overview
@@ -125,7 +125,7 @@ steel_man_os snippet:
     ...
 ```
 
-| ![lines](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/lines.png) |
+| ![lines](https://github.com/neuresthetics/steel_man_s.e/blob/main/img/lines.png) |
 |---|
 
 ---
@@ -195,7 +195,7 @@ Steel Man OS enhances research and development by accelerating iterative refinem
 
 ## Evolution and Lineage
 
-| ![evo](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/evo.png) |
+| ![evo](https://github.com/neuresthetics/steel_man_s.e/blob/main/img/evo.png) |
 |---|
 
 Steel Man OS is an advanced evolution within the Neuresthetics ecosystem, expanding foundational projects into a recursive framework for hardening ideas and extracting invariants.
@@ -209,13 +209,13 @@ This progression positions Steel Man OS as a self-referential system in Neuresth
 ---
 ---
 
-| ![pipes](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/pipes.png) |
+| ![pipes](https://github.com/neuresthetics/steel_man_s.e/blob/main/img/pipes.png) |
 |---|
 
 ## Usage
 
 ```
-git clone git@github.com:neuresthetics/steel_man_s.e..git
+git clone git@github.com:neuresthetics/steel_man_s.e.git
 ```
 
 > Copy paste files at root as prompt, AI project files, or integrate with Agent.
@@ -258,7 +258,7 @@ Approach Steel Man OS as a refined instrument for knowledge forging: its mechani
 
 ### framework translated to img prompt text blocks for visual representation:
 
-| ![panel1](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/panel1.png) |
+| ![panel1](https://github.com/neuresthetics/steel_man_s.e/blob/main/img/panel1.png) |
 |---|
 
 
@@ -270,5 +270,5 @@ A highly detailed, professional corporate illustration in Art Nouveau style with
 A highly detailed, professional corporate illustration in Art Nouveau style infused with subtle cyberpunk elements, visualizing the evolution and lineage of a recursive axiomatic framework within a philosophical ecosystem. At the center, an elegant, flowing tree of life with sinuous organic vines and floral motifs in gold and emerald tones represents growth and progression: roots labeled "Seed Framework" as an Aristotelian entelechy seed sprouting upward, branching into "Spinoza Lab" with symbols of Substance Monism and conatus as ornate, glowing crystalline orbs. The canopy blooms into "Steel Man OS," depicted as a chained pipeline of interlocking metallic stages (Constructor, Seeker, Collider, Joiner, Grounder, Kiln) adorned with logic gates (NAND, NOR, XNOR) as neon-lit cyberpunk circuits in electric blue and purple hues, emitting holographic light. Faded realistic textures of circuit boards, ancient manuscripts (like Spinoza's Ethics), and digital code overlays blend into the background, symbolizing the mission to convert subjective inquiry into verifiable science, with AI ethics and unified theories as ethereal, flowing banners. The composition is balanced and symmetrical, like a tech company infographic, with intricate linework, high contrast, and a sense of infinite recursion through mirrored loops. Ultra-high resolution, polished rendering for a corporate-grade poster.
 ```
 
-| ![lineage](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/lineage.png) |
+| ![lineage](https://github.com/neuresthetics/steel_man_s.e/blob/main/img/lineage.png) |
 |---|
