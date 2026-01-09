@@ -34,7 +34,8 @@ The pipeline is a mandatory sequence of stages, each processing the output of th
 
 7. **Meta-Recursion & Convergence**: The entire output is re-fed through the pipeline until global invariance (XNOR scores ≥ 0.98, residuals < 2%).
 
-![lines](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/lines.png)
+| ![lines](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/lines.png) |
+|---|
 
 ## Role of Scorched Earth Protocol vs. Seeker
 
