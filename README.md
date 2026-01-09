@@ -34,6 +34,95 @@ The pipeline is a mandatory sequence of stages, each processing the output of th
 
 7. **Meta-Recursion & Convergence**: The entire output is re-fed through the pipeline until global invariance (XNOR scores ≥ 0.98, residuals < 2%).
 
+steel_man_os snippet:
+
+```json
+ "pipeline": {
+      "description": "Mandatory chained stages for processing inputs into scorched invariants; integrates gates across all.",
+      "stages": [
+        {
+          "stage": "1. Steel Man Constructor",
+          "description": "Build robust steel man from input via First Principles and Geometric Method, gated for strengthening.",
+          "key_gates": [
+            "AND (chaining)",
+            "NOT (inversion)",
+            "XNOR (equivalence)"
+          ],
+          "recursive_mechanism": "Self-build until XNOR-invariant; output feeds to seeker.",
+          "component": "steel_man_constructor.json"
+        },
+        {
+          "stage": "2. Steel Man Seeker",
+          "description": "Process the constructed steel man for poetic, metaphorical, and ideological content, extracting analogical functional truths and patterns to refine non-literal elements.",
+          "key_gates": [
+            "MAPS (correspondence)",
+            "TRANSFORMS (structural similarity)",
+            "SCORES (mapping quality)",
+            "EXTRACTS (functional truth)",
+            "CONTEXTS (domain relevance)"
+          ],
+          "recursive_mechanism": "Self-process the analogical steel man until analogy scores stabilize; output feeds to collider.",
+          "component": "steel_man_seeker.json"
+        },
+        {
+          "stage": "3. Steel Man Collider",
+          "description": "Collide steel men (infer oppositions if single), fragment via XOR, synthesize via AND/OR.",
+          "key_gates": [
+            "XOR (differences)",
+            "NAND/NOR (reductions)",
+            "XNOR (convergence)"
+          ],
+          "recursive_mechanism": "Self-collide fragments; output pair feeds to joiner.",
+          "component": "steel_man_collider.json"
+        },
+        {
+          "stage": "4. Steel Man Joiner",
+          "description": "Unify collided pair into axiomatic system, resolve tensions via NOT, seal with XNOR.",
+          "key_gates": [
+            "AND/OR (synthesis)",
+            "NOT (inversion)",
+            "XNOR (unity)"
+          ],
+          "recursive_mechanism": "Self-join until fixed; output feeds to grounder.",
+          "component": "steel_man_joiner.json"
+        },
+        {
+          "stage": "5. Steel Man Grounder",
+          "description": "Anchor unified system to reality via tools, vet hallucinations with XOR, bound with humility.",
+          "key_gates": ["AND (evidence)", "NOT (cull)", "XNOR (anchoring)"],
+          "recursive_mechanism": "Self-ground with re-probes; output feeds to kiln.",
+          "component": "steel_man_grounder.json"
+        },
+        {
+          "stage": "6. Steel Man Kiln",
+          "description": "Apply Scorched Earth Protocol to dissolve non-invariants via NAND/NOR, classify hallucinations with HHM, reduce to boolean invariants.",
+          "key_gates": [
+            "NAND (dissolution)",
+            "NOR (exclusion)",
+            "XNOR (sealing)"
+          ],
+          "recursive_mechanism": "Self-kiln until binary fixed point; final output if stable.",
+          "component": "steel_man_kiln.json"
+        },
+        {
+          "stage": "7. Meta-Recursion & Convergence",
+          "description": "Re-feed full output through pipeline; halt on invariants across stages.",
+          "key_gates": ["All, with recursive compositions"],
+          "recursive_mechanism": "OS as own processor; Halt: Coherence delta < 0.01, grounding ≥0.85."
+        }
+      ],
+      "invariance_checks": [
+        "XNOR scores ≥0.98 across pipeline outputs.",
+        "Residuals <2% post-kilning.",
+        "Tool-anchored convergence to fixed points."
+      ],
+      "hardening_protocols": {
+        "self_stability_integration": "Embed ΔStab = (1 - ρ)^2; factor in recursion for bounded gains.",
+        "bias_flags": "Cull if unresolved >3%; cap at empirical thresholds."
+      }
+    },
+```
+
 | ![lines](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/lines.png) |
 |---|
 
