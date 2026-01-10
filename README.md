@@ -1,4 +1,6 @@
-# Steel Man OS: Recursive Axiomatic Steel Man Processing Framework
+# Steel Man OS: Recursive Axiomatic Steel Man Processing Framework v1.2
+
+1.3 notes in bounds_evolution_branch
 
 ## Overview
 
@@ -225,6 +227,24 @@ git clone git@github.com:neuresthetics/steel_man_s.e.git
 - **Outputs**: Gated, invariant steel men (definitions, axioms, propositions, etc.).
 - **Customization**: Toggle Scorched Earth via triggers; adjust recursion thresholds.
 - **Dependencies**: External tools for Grounder (e.g., web_search); logic gate implementations.
+
+### KEY commands ( more like guidelines than rules )
+
+```
+run this through the pipeline: ___ (itself, another thing only, both, neither, the kitchen sink)
+```
+
+```
+pass the pipeline through itself with ___, and design a framework upgradde for this problem.
+```
+
+```
+use constructor only
+use collider only
+use grounder only
+...
+
+```
 
 ## Hardening and Invariance
 

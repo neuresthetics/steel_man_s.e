@@ -1,0 +1,102 @@
+{
+  "type": "axiomatic_tree_visualization",
+  "root": "X-Risk Endpoint (Existential Threats: AI Misalignment, Nuclear Escalation, Global Conflicts)",
+  "gates": {
+    "to_geopolitical": "NOR: Mitigation Failure",
+    "to_ai_tech": "NAND: Neglected Causations",
+    "to_ideological": "XOR: Amplification vs. Stewardship"
+  },
+  "branches": {
+    "Geopolitical Asymmetry (U.S.-Israel Alliance Risks, Iran Tensions)": {
+      "gate_to_violence": "AND: Causal Amplifiers",
+      "sub_branch": {
+        "Violence Cycles (Intergenerational Aggression from Cultural Exports)": {
+          "gate_to_trauma": "OR: Ideological Sustainers",
+          "sub_branch": {
+            "Trauma Imprinting": {
+              "sub_nodes": [
+                "Circumcision (Cortisol Spikes, PTSD, Aggression Proneness)",
+                "Religious Indoctrination (Hellfire Teachings, Anxiety/Guilt Imprinting)",
+                "Corporal Punishment (Normalization of Violence, Obedience Conditioning)",
+                "Ritual Shaming/Excommunication (Social Isolation, Shame-Based Control)",
+                "Holy War Grooming (Youth Exposure to Jihad/Crusade Ideals, Militarized Mindset)",
+                "Gender Suppression Rituals (Patriarchal Controls, Identity Trauma)",
+                "Original Sin Inheritance (Generational Guilt, Self-Worth Erosion)",
+                "Purity Obsessions (OCD-Like Rituals, Fear of Contamination)",
+                "Forced Conversion Trauma (Identity Erasure, Persecution Imprinting)",
+                "Environmental Dominion Abuse (Resource Exploitation Justified, Scarcity Trauma)"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "Hidden Relationships in AI Ethics (Obscured Trauma Loops, Prediction Errors)": {
+      "gate_to_violence": "OR: Ideological Sustainers",
+      "sub_branch": {
+        "Violence Cycles (Intergenerational Aggression from Cultural Exports)": {
+          "gate_to_trauma": "OR: Ideological Sustainers",
+          "sub_branch": {
+            "Trauma Imprinting": {
+              "sub_nodes": [
+                "Circumcision (Cortisol Spikes, PTSD, Aggression Proneness)",
+                "Religious Indoctrination (Hellfire Teachings, Anxiety/Guilt Imprinting)",
+                "Corporal Punishment (Normalization of Violence, Obedience Conditioning)",
+                "Ritual Shaming/Excommunication (Social Isolation, Shame-Based Control)",
+                "Holy War Grooming (Youth Exposure to Jihad/Crusade Ideals, Militarized Mindset)",
+                "Gender Suppression Rituals (Patriarchal Controls, Identity Trauma)",
+                "Original Sin Inheritance (Generational Guilt, Self-Worth Erosion)",
+                "Purity Obsessions (OCD-Like Rituals, Fear of Contamination)",
+                "Forced Conversion Trauma (Identity Erasure, Persecution Imprinting)",
+                "Environmental Dominion Abuse (Resource Exploitation Justified, Scarcity Trauma)"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "Abrahamic Ideological Influence (Eschatological Thinking, Ontological Biases)": {
+      "gate_to_violence": "XNOR: Equivalence Seal",
+      "sub_branch": {
+        "Violence Cycles (Intergenerational Aggression from Cultural Exports)": {
+          "gate_to_trauma": "OR: Ideological Sustainers",
+          "sub_branch": {
+            "Trauma Imprinting": {
+              "sub_nodes": [
+                "Circumcision (Cortisol Spikes, PTSD, Aggression Proneness)",
+                "Religious Indoctrination (Hellfire Teachings, Anxiety/Guilt Imprinting)",
+                "Corporal Punishment (Normalization of Violence, Obedience Conditioning)",
+                "Ritual Shaming/Excommunication (Social Isolation, Shame-Based Control)",
+                "Holy War Grooming (Youth Exposure to Jihad/Crusade Ideals, Militarized Mindset)",
+                "Gender Suppression Rituals (Patriarchal Controls, Identity Trauma)",
+                "Original Sin Inheritance (Generational Guilt, Self-Worth Erosion)",
+                "Purity Obsessions (OCD-Like Rituals, Fear of Contamination)",
+                "Forced Conversion Trauma (Identity Erasure, Persecution Imprinting)",
+                "Environmental Dominion Abuse (Resource Exploitation Justified, Scarcity Trauma)"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "subgraphs": {
+    "Geopolitical Pillar": ["Geopolitical Asymmetry (U.S.-Israel Alliance Risks, Iran Tensions)"],
+    "AI/Tech Pillar": ["Hidden Relationships in AI Ethics (Obscured Trauma Loops, Prediction Errors)"],
+    "Ideological Pillar": ["Abrahamic Ideological Influence (Eschatological Thinking, Ontological Biases)"],
+    "Psychological Pillar": [
+      "Violence Cycles (Intergenerational Aggression from Cultural Exports)",
+      "Trauma Imprinting",
+      "Circumcision (Cortisol Spikes, PTSD, Aggression Proneness)",
+      "Religious Indoctrination (Hellfire Teachings, Anxiety/Guilt Imprinting)",
+      "Corporal Punishment (Normalization of Violence, Obedience Conditioning)",
+      "Ritual Shaming/Excommunication (Social Isolation, Shame-Based Control)",
+      "Holy War Grooming (Youth Exposure to Jihad/Crusade Ideals, Militarized Mindset)",
+      "Gender Suppression Rituals (Patriarchal Controls, Identity Trauma)",
+      "Original Sin Inheritance (Generational Guilt, Self-Worth Erosion)",
+      "Purity Obsessions (OCD-Like Rituals, Fear of Contamination)",
+      "Forced Conversion Trauma (Identity Erasure, Persecution Imprinting)",
+      "Environmental Dominion Abuse (Resource Exploitation Justified, Scarcity Trauma)"
+    ]
+  }
+}

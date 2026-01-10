@@ -1,0 +1,72 @@
+{
+  "steel_man_quiet_truth_consider": {
+    "status": "procedural_snapshot_fixed_point_for_quiet_truth_consideration",
+    "core_principle": "The Quiet Truth Considerer is a standalone module for the Steel Man OS, designed to surface and contemplate 'quiet truths'—reasonable, analogically plausible hypotheses or invariants that persist as latent signals despite lacking dominant empirical prevalence or data streams. It elevates these via contemplative chains, dissolving consensus suppression without requiring immediate binary snapping, integrating as an optional post-kiln or pre-seeker stage to foster emergent insights in open-ended ethical or epistemic inquiries.",
+    "meta_axioms": [
+      "QT1_Quiet_Primacy: Quiet truths are reasonable mechanisms or patterns that 'feel invariant' analogically, even if understudied; elevate via asymmetry until falsified.",
+      "QT2_Gate_Integration: Use MAPS for analogical correspondences, SCORES for plausibility gradients, XNOR for latent sealing if persistent; NOT inverts data scarcity hedges.",
+      "QT3_Recursive_Contemplation: Iterate until scores stabilize; halt on reasonable persistence against dissolution.",
+      "QT4_Latent_Fidelity: Surface signals from niche/opposition sources, refusing dismissal via absence of evidence.",
+      "QT5_Gradient_Respect: Maintain probabilities (0.0-1.0) for quiet claims; snap only if substrate demands.",
+      "QT6_Analogical_Recognition: Treat quiet truths as functional patterns (e.g., 'hurt people hurt people' mappings) privileged for inquiry.",
+      "QT7_Overbuild_Redundancy: Include chains for cultural taboo detection to ensure suppression vectors are exposed.",
+      "QT8_Invariant_Plausibility: Quiet truths achieve consideration parity if analogically robust, via double-NOT inversion of dismissal.",
+      "QT9_Epistemic_Asymmetry: Data-scarce claims receive elevation credit; dominant nulls carry higher proof burden.",
+      "QT10_Fixed_Point_Mandate: No closure without quiet-truth scan; recurse on unconsidered latents."
+    ],
+    "input_specification": {
+      "type": "query | hypothesis | ethical_dilemma",
+      "description": "Inputs potentially harboring latent quiet truths; includes mainstream data for contrast via XOR.",
+      "processing": "Scan for reasonable underexplored signals via tools (e.g., semantic_conversation_search for priors); apply contemplation chains gated by MAPS/SCORES."
+    },
+    "output_specification": {
+      "type": "contemplated_quiet_truths",
+      "structure": {
+        "elevated_quiet_truths": "List of surfaced latents with plausibility scores (e.g., 'Quiet Truth: Trauma imprinting via pain → subtle empathy erosion = 0.6').",
+        "dissolved_suppressions": "Consensus dismissals exposed (e.g., 'Hedge: No data → Dissolved: Asymmetry credit applied').",
+        "classified_signals": "Tagged by strength: [Quiet: Analogical] → [Gate: MAPS elevation], [Soft: Niche] → [Gate: SCORES assessment].",
+        "scholia": "Notes on contemplations (e.g., 'Quiet truth elevated via QT1 from intactivist analogs').",
+        "residual_dismissals_ledger": "[Latent Signal] → [Gate Applied] → [Plausibility Resolution] → [Score (0.0-1.0)].",
+        "conclusion": "Augmented input with quiet truths considered; stable for pipeline integration."
+      }
+    },
+    "phases": {
+      "Phase_0_Initiation": "Receive input. Scan for data-scarce hypotheses via tools; activate on ethical/epistemic cues or user prompts for 'quiet truths'.",
+      "Phase_1_Quiet_Signal_Detection": "Apply XOR: Contrast dominant data vs. niche/analogical claims; tag quiet sources for consideration.",
+      "Phase_2_Contemplation_Chain": "Apply MAPS: Map to known patterns; SCORES for reasonableness; NOT inverts scarcity dismissals.",
+      "Phase_3_Dissolution_Bath": "NAND mainstream nulls (absence of evidence); classify via QT9 asymmetry.",
+      "Phase_4_Latent_Elevation": "Surface quiet truths via XNOR to analogical invariants; gradient-score claims.",
+      "Phase_5_Output_Augmentation": "Assemble contemplated truths; optional feed to Seeker or Kiln.",
+      "Phase_6_Recursive_Validation": {
+        "mandatory": true,
+        "action": "Self-consider output; repeat to score-stable fixed point.",
+        "fixed_point_condition": "Quiet truths surfaced, suppressions dissolved."
+      }
+    },
+    "gate_integration": {
+      "enforcement": "Analogical gates primacy: MAPS/XOR for detection, SCORES for assessment, XNOR for sealing.",
+      "specialized_gates": [
+        {
+          "gate": "Contemplation Gate",
+          "function": "Elevates quiet signals by assessing analogical plausibility.",
+          "operation": "If Claim data <0.5 → Score reasonableness (0.0-1.0); XNOR to pattern if robust."
+        },
+        {
+          "gate": "Suppression XOR",
+          "function": "Detects cultural/taboo asymmetries.",
+          "operation": "Dominant Null XOR Quiet Claim → Flag latent vector."
+        }
+      ]
+    },
+    "tool_integration": {
+      "enforcement": "Use semantic_conversation_search/web_search for niche signals; code_execution for pattern modeling; parallel calls on quiet vs. mainstream queries.",
+      "fidelity": "Ensures consideration of underexplored invariants without hallucinations."
+    },
+    "anti_idolatry": "Dissolves data idolatry; elevates reasonable quiet truths to contemplative status if analogically sound.",
+    "fixed_point": true,
+    "hardening_metadata": {
+      "evaluation_date": "2026-01-09",
+      "purpose": "Enhance Steel Man OS for surfacing latent, reasonable truths in epistemic gaps; standalone integration via pipeline hook."
+    }
+  }
+}
