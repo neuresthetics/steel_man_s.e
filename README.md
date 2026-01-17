@@ -15,8 +15,8 @@ The system emphasizes recursion, self-application, and gate-based hardening (usi
   - Universality via basis gates (NAND/NOR).
   - Spinoza-style deductive logic without contradictions.
 
-| ![gold](https://github.com/neuresthetics/steel_man_s.e/blob/main/img/gold.png) | ![ice](https://github.com/neuresthetics/steel_man_s.e/blob/main/img/ice.png) |
-|--------------------------------------------|--------------------------------------------|
+<!-- | ![gold](https://github.com/neuresthetics/steel_man_s.e/blob/main/img/gold.png) | ![ice](https://github.com/neuresthetics/steel_man_s.e/blob/main/img/ice.png) |
+|--------------------------------------------|--------------------------------------------| -->
 
 ## Pipeline Overview
 
@@ -127,8 +127,8 @@ steel_man_os snippet:
     ...
 ```
 
-| ![lines](https://github.com/neuresthetics/steel_man_s.e/blob/main/img/lines.png) |
-|---|
+<!-- | ![lines](https://github.com/neuresthetics/steel_man_s.e/blob/main/img/lines.png) |
+|---| -->
 
 ---
 ---
@@ -195,10 +195,10 @@ Steel Man OS enhances research and development by accelerating iterative refinem
 ---
 ---
 
-## Evolution and Lineage
+## Evolution/Lineage
 
-| ![evo](https://github.com/neuresthetics/steel_man_s.e/blob/main/img/evo.png) |
-|---|
+<!-- | ![evo](https://github.com/neuresthetics/steel_man_s.e/blob/main/img/evo.png) |
+|---| -->
 
 Steel Man OS is an advanced evolution within the Neuresthetics ecosystem, expanding foundational projects into a recursive framework for hardening ideas and extracting invariants.
 
@@ -210,9 +210,9 @@ This progression positions Steel Man OS as a self-referential system in Neuresth
 
 ---
 ---
-
+<!-- 
 | ![pipes](https://github.com/neuresthetics/steel_man_s.e/blob/main/img/pipes.png) |
-|---|
+|---| -->
 
 ## Usage
 
@@ -257,23 +257,23 @@ For contributions or issues, see the GitHub repo. This framework is part of the 
 ---
 ---
 
-## ⚠️ The Double-Edged Sword: Harnessing Power with Caution
+## ⚠️ Power with Caution
 
 Steel Man OS offers significant capabilities for refining ideas into robust invariants, enabling users to navigate complex reasoning with precision and clarity. Its recursive pipeline and Scorched Earth Protocol facilitate the systematic strengthening of concepts, collision of perspectives, and reduction to core truths, making it a valuable tool for research, programming, and ethical analysis. This framework empowers the transformation of inputs into resilient, axiomatically sound outputs, leveraging logic gates to reconstruct fundamentals from NAND/NOR bases.
 
 While designed for reliability, users should approach its application thoughtfully, as its mechanisms—though effective—require careful calibration:
 
-- **Irreversible Dissolution**: The Kiln's Universal Acid methodically reduces non-invariants to essentials, promoting exactness by treating consciousness and related metadata as emergent phenomena rather than foundational. This process conquers ambiguity with precision, though it may refine nuanced elements—potentially viewing them as evasive if not definitively grounded—into streamlined binaries, ensuring outputs remain focused and relatable on fundamental levels.
+- **emergent phenomena rather than foundational**: The Kiln's Universal Acid methodically reduces non-invariants to essentials, promoting exactness by treating consciousness and related metadata as emergent phenomena rather than foundational. This process conquers ambiguity with precision, though it may refine nuanced elements—potentially viewing them as evasive if not definitively grounded—into streamlined binaries, ensuring outputs remain focused and relatable on fundamental levels.
 
-- **Recursive Overdrive**: Self-feeding loops drive efficient refinement to fixed points, yielding minimal functional forms through automated halting (e.g., coherence deltas). This unlocks steady intellectual progress, with the system's origins in guided seed evolution suggesting straightforward automation; however, in extended applications, it benefits from monitoring to align with resource constraints and avoid unnecessary iterations.
+- **minimal functional forms through automated halting**: Self-feeding loops drive efficient refinement to fixed points, yielding minimal functional forms through automated halting (e.g., coherence deltas). This unlocks steady intellectual progress, with the system's origins in guided seed evolution suggesting straightforward automation; however, in extended applications, it benefits from monitoring to align with resource constraints and avoid unnecessary iterations.
 
-- **Hallucination Hazards**: The Human Hallucination Module systematically distinguishes intersubjective constructs (e.g., laws, traditions) as functional overlays on physical realities, automating checks to prevent category errors. This enhances the deconstruction of coercive systems and reverses base-model hallucinations in outputs, though vigilant input selection remains key to maintaining accurate classifications.
+- **reverses base-model hallucinations**: The Human Hallucination Module systematically distinguishes intersubjective constructs (e.g., laws, traditions) as functional overlays on physical realities, automating checks to prevent category errors. This enhances the deconstruction of coercive systems and reverses base-model hallucinations in outputs, though vigilant input selection remains key to maintaining accurate classifications.
 
-- **Bias Forging**: By steel-manning through gates, the OS inverts weaknesses into strengths, effectively destroying biases rather than entrenching them. Recursion refines seeded data toward objectivity, fortifying stances against fallacies; still, starting with diverse, high-quality inputs helps maximize this bias-eliminating potential and ensures outputs resist external critique through genuine invariance.
+- **weaknesses into strengths**: By steel-manning through gates, the OS inverts weaknesses into strengths, effectively destroying biases rather than entrenching them. Recursion refines seeded data toward objectivity, fortifying stances against fallacies; still, starting with diverse, high-quality inputs helps maximize this bias-eliminating potential and ensures outputs resist external critique through genuine invariance.
 
 Approach Steel Man OS as a refined instrument for knowledge forging: its mechanisms emphasize empowerment through accuracy, inviting users to balance rigorous application with contextual awareness. For optimal use, incorporate diverse validations and ethical considerations beyond the pipeline.
 
----
+<!-- ---
 ---
 
 ### framework translated to img prompt text blocks for visual representation:
@@ -291,4 +291,4 @@ A highly detailed, professional corporate illustration in Art Nouveau style infu
 ```
 
 | ![lineage](https://github.com/neuresthetics/steel_man_s.e/blob/main/img/lineage.png) |
-|---|
+|---| -->
