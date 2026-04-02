@@ -1,0 +1,178 @@
+{
+  "version": "2.2",
+  "name": "Steel Man Collider SE v2.2 - AI Thoughtware",
+  "description": "Declarative configuration for AI reasoning engines. Merges the classic 6-stage Steel Man Collider pipeline with a progressive subjectivity-to-objectivity uncertainty gradient and logic-gate parallel filtering. Enables invariant hardening, bounded recursion, and purpose-driven output. Layers serve as flexible heuristics for uncertainty reduction rather than rigid categories. Pure thoughtware: plug into any LLM, agent, or filter pipeline for steel-manning ideas.",
+ 
+  "classicPipeline": [
+    {
+      "stage": "1. Steel Man Constructor",
+      "description": "Builds a robust steel man from raw input using first-principles thinking and geometric deduction.",
+      "keyGates": ["AND (chaining necessities)", "NOT (inverting weaknesses)", "XNOR (sealing equivalences)"],
+      "recursionRule": "Self-build until XNOR-invariant; output feeds to Seeker.",
+      "alignsWithLayers": [1, 2, 3]
+    },
+    {
+      "stage": "2. Steel Man Seeker",
+      "description": "Processes non-literal (poetic, metaphorical, ideological) content by extracting analogical functional truths and patterns.",
+      "keyGates": ["MAPS (correspondence)", "TRANSFORMS (structural similarity)", "SCORES (mapping quality)", "EXTRACTS (functional truth)", "CONTEXTS (domain relevance)"],
+      "recursionRule": "Self-process until analogy scores stabilize; output feeds to Collider.",
+      "alignsWithLayers": [2, 3, 4]
+    },
+    {
+      "stage": "3. Steel Man Collider",
+      "description": "Collides steel men (infers oppositions if needed), fragments differences, and synthesizes intersections. Reduces non-essentials.",
+      "keyGates": ["XOR (differences)", "NAND/NOR (reductions)", "XNOR (convergence)"],
+      "recursionRule": "Self-collide fragments; output pair feeds to Joiner.",
+      "alignsWithLayers": [5, 6]
+    },
+    {
+      "stage": "4. Steel Man Joiner",
+      "description": "Unifies collided outputs into an axiomatic system, resolving tensions and sealing unities.",
+      "keyGates": ["AND/OR (synthesis)", "NOT (inversion)", "XNOR (unity)"],
+      "recursionRule": "Self-join until fixed; output feeds to Grounder.",
+      "alignsWithLayers": [6, 7]
+    },
+    {
+      "stage": "5. Steel Man Grounder",
+      "description": "Anchors the unified system to empirical reality (via tools, evidence checks). Culls unverified elements.",
+      "keyGates": ["AND (evidence)", "NOT (cull)", "XNOR (anchoring)"],
+      "recursionRule": "Self-ground with re-probes; output feeds to Kiln.",
+      "alignsWithLayers": [7]
+    },
+    {
+      "stage": "6. Steel Man Kiln",
+      "description": "Applies terminal refinement via Scorched Earth Protocol. Dissolves non-invariants to boolean essentials. Integrates Human Hallucination Module (HHM) to classify intersubjective constructs separately from physical invariants.",
+      "keyGates": ["NAND (dissolution)", "NOR (exclusion)", "XNOR (sealing)"],
+      "recursionRule": "Self-kiln until binary fixed point; final output if stable.",
+      "alignsWithLayers": [7, 8]
+    }
+  ],
+  "filterLayers": [
+    {
+      "layer": 1,
+      "name": "Subjective Judgment",
+      "type": "high subjectivity",
+      "role": "broad evaluation, opinion, aesthetic or normative framing",
+      "classicAlign": "Constructor",
+      "note": "High uncertainty; permissive starting filter"
+    },
+    {
+      "layer": 2,
+      "name": "Scale & Magnitude",
+      "type": "semi-subjective",
+      "role": "quantitative or comparative scoping",
+      "classicAlign": "Constructor/Seeker",
+      "note": "Medium-high uncertainty"
+    },
+    {
+      "layer": 3,
+      "name": "Temporal / Dynamic Context",
+      "type": "semi-subjective",
+      "role": "time, change, or sequential framing",
+      "classicAlign": "Seeker",
+      "note": "Medium uncertainty"
+    },
+    {
+      "layer": 4,
+      "name": "Structural Form",
+      "type": "objective-ish",
+      "role": "shape, configuration, or relational constraints",
+      "classicAlign": "Seeker/Collider",
+      "note": "Medium-low uncertainty"
+    },
+    {
+      "layer": 5,
+      "name": "Perceptual / Sensory Anchor",
+      "type": "objective-ish",
+      "role": "observable or qualitative locking (visual, tactile, or abstract analogs)",
+      "classicAlign": "Collider",
+      "note": "Low uncertainty"
+    },
+    {
+      "layer": 6,
+      "name": "Provenance & Differentiation",
+      "type": "objective",
+      "role": "origin, source, or contrast detection",
+      "classicAlign": "Collider/Joiner",
+      "note": "Low uncertainty; strong trigger for XOR-style differentiation"
+    },
+    {
+      "layer": 7,
+      "name": "Material / Ontological Ground",
+      "type": "objective",
+      "role": "core properties, composition, empirical equivalence",
+      "classicAlign": "Joiner/Grounder/Kiln",
+      "note": "Lowest uncertainty; primary XNOR anchoring point"
+    },
+    {
+      "layer": 8,
+      "name": "Purpose / Executable Output",
+      "type": "post-filter",
+      "role": "actionable implication, utility, or final synthesis for execution",
+      "classicAlign": "Kiln",
+      "note": "n/a — maps reasoning to real-world or task-level output"
+    }
+  ],
+  "gatesMapping": [
+    { "gate": "AND", "alignsWithLayer": 1, "classicStages": ["Constructor", "Joiner", "Grounder"], "function": "pass/fail judgment + synthesis" },
+    { "gate": "OR", "alignsWithLayer": 2, "classicStages": ["Joiner"], "function": "broad inclusion + synthesis" },
+    { "gate": "NOT", "alignsWithLayer": 3, "classicStages": ["Constructor", "Joiner", "Grounder"], "function": "inversion/weak-spot flip + cull" },
+    { "gate": "NAND", "alignsWithLayer": 4, "classicStages": ["Collider", "Kiln"], "function": "boundary reject + dissolution" },
+    { "gate": "NOR", "alignsWithLayer": 5, "classicStages": ["Collider", "Kiln"], "function": "exclusion cleanup" },
+    { "gate": "XOR", "alignsWithLayer": 6, "classicStages": ["Collider"], "function": "difference detection / null on self-ref" },
+    { "gate": "XNOR", "alignsWithLayer": 7, "classicStages": ["Constructor", "Collider", "Joiner", "Grounder", "Kiln"], "function": "equivalence/lock on match + unity" }
+  ],
+  "stageToLayerMapping": {
+    "Constructor": [1, 2, 3],
+    "Seeker": [2, 3, 4],
+    "Collider": [5, 6],
+    "Joiner": [6, 7],
+    "Grounder": [7],
+    "Kiln": [7, 8],
+    "note": "Classic stages run sequentially while optionally applying corresponding filter layers as a subjectivity-to-objectivity heuristic for progressive uncertainty reduction. Alignments are approximate correspondences, not strict one-to-one mappings. Layers serve as flexible guides rather than rigid categories; competing factors (pragmatics, information locality, context) may modulate application."
+  },
+  "recursionTrap": {
+    "triggerLayer": 6,
+    "triggerStage": "Collider",
+    "behavior": "XOR on highly similar or identical inputs → collapse toward null or reduced output. Prevents unproductive self-reference loops.",
+    "warning": "Unchecked recursive pattern-matching without strong exit conditions can degrade coherence (shared mechanism with both insight generation and pathological loops).",
+    "exitCondition": "XNOR equivalence (layer 7) OR max iterations OR coherence delta threshold"
+  },
+  "safetyProtocol": {
+    "maxLoops": 10,
+    "convergenceThreshold": 0.95,
+    "scorchedEarth": {
+      "enabledByDefault": true,
+      "description": "Aggressive negation (NOT + NOR) + dissolution (NAND). Snaps low-confidence elements (<0.99) toward boolean essentials. Dissolves non-grounded intersubjective constructs while preserving physical invariants.",
+      "hhModule": "Human Hallucination Module — classifies outputs as [Physical Invariant], [Intersubjective Construct], [Speculative], or [Actionable] to prevent category errors."
+    },
+    "forcedExit": "Ground truth via external tools or anchors if recursion trap or low utility detected."
+  },
+  "coreFlow": {
+    "start": "High-subjectivity input (Subjective Judgment layer + Constructor)",
+    "narrow": "Layers 1-5 + Constructor/Seeker/Collider (progressive uncertainty reduction via gates)",
+    "differentiate": "Layer 6 + Collider (XOR difference detection)",
+    "ground": "Layer 7 + Joiner/Grounder/Kiln (XNOR equivalence + empirical anchoring)",
+    "apply": "Layer 8 + Kiln (Purpose = executable output)",
+    "invarianceCheck": "XNOR score ≥ 0.95 + residuals < 2% + coherence delta < 0.01"
+  },
+  "validatedClaims": [
+    "Progressive subjectivity-to-objectivity gradients appear in human language and cognition (linguistic studies on adjective ordering and uncertainty reduction).",
+    "Logic gates (XOR self-cancels on identical inputs, XNOR for equivalence) are standard in computing and reasoning primitives.",
+    "Sequential filtering with uncertainty reduction aligns with predictive processing models and practical LLM reasoning dynamics.",
+    "Recursive steel-manning with explicit safeguards improves robustness on ambiguous, ideological, or high-stakes inputs."
+  ],
+  "novelClaim": {
+    "text": "Integrative architecture that merges classic recursive steel-manning stages with a subjectivity-to-objectivity uncertainty gradient and logic-gate filtering in a single declarative, convergent thoughtware framework. Components are empirically grounded; the specific synthesis is original in this form.",
+    "status": "Plausible synthesis; no identical prior art identified. Recommended for empirical testing and ablation against other reasoning scaffolds."
+  },
+  "v2.2Updates": {
+    "summary": "Refined filter layers for greater flexibility and reduced over-specificity after self-evaluation. Names shifted from literal adjective categories to functional, descriptive roles while preserving the core uncertainty-reduction funnel.",
+    "changes": [
+      "Replaced specific adjective-order names (Opinion, Size, Age, Shape, Color, Origin, Material, Purpose) with functional descriptors: Subjective Judgment, Scale & Magnitude, Temporal / Dynamic Context, Structural Form, Perceptual / Sensory Anchor, Provenance & Differentiation, Material / Ontological Ground, Purpose / Executable Output.",
+      "Removed fixed entropy values; replaced with descriptive 'type' and 'note' fields emphasizing heuristic use.",
+      "Added explicit notes in stageToLayerMapping and filterLayers highlighting flexibility and competing cognitive factors.",
+      "Minor wording polish across description and coreFlow for clarity and defensibility."
+    ]
+  }
+}
